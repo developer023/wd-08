@@ -1,0 +1,29 @@
+/* body * {
+  margin: 10px;
+  border: 1px solid blue;
+} */
+
+form {
+  margin-bottom: 1rem;
+  padding: 8px;
+  border: 1px solid blue;
+}
+
+table {
+  border: 1px solid blue;
+}
+
+ul {
+  width: 50%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid red;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid green;
+}
